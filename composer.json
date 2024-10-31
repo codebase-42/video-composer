@@ -1,0 +1,25 @@
+{
+    "name": "codebase42/composer",
+    "authors": [
+        {
+            "name": "Codebase 42",
+            "email": "hello@codebase42.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Composer\\": "src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "require-dev": {
+        "pestphp/pest": "^3.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}

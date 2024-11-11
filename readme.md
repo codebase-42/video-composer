@@ -1,5 +1,7 @@
 # Vídeo - Os segredos do Composer PHP revelados em 23 minutos | Aprenda PHP
 
+Link do vídeo: https://youtu.be/8zvdKVeWhPc
+
 🎬 Desvendando o Composer no PHP - Simplifique seu Código e Aproveite o Poder das Bibliotecas!
 
 Hoje em dia, não dá para desenvolver um projeto PHP moderno sem um gerenciador de dependências, e no PHP, o Composer é o seu melhor aliado! 🚀 Neste vídeo, vou te ensinar como o Composer pode transformar a maneira como você programa em PHP, facilitando o autoload de classes, simplificando o uso de bibliotecas externas e muito mais!

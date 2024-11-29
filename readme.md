@@ -8,8 +8,8 @@ Hoje em dia, não dá para desenvolver um projeto PHP moderno sem um gerenciador
 
 📌 O que você vai aprender:
 
-Instalação do Composer em qualquer sistema
-Configuração do autoload usando PSR-4 para organizar o código de forma inteligente
-Instalação de bibliotecas externas (exemplo com Guzzle e Pest)
-Diferença entre composer install e composer update, e como manter ambientes consistentes em produção com --no-dev
-Dica bônus: Evite o retrabalho e aprenda a reutilizar código que já foi testado por milhares de devs ao redor do mundo! 🌎
+* Instalação do Composer em qualquer sistema
+* Configuração do autoload usando PSR-4 para organizar o código de forma inteligente
+* Instalação de bibliotecas externas (exemplo com Guzzle e Pest)
+* Diferença entre composer install e composer update, e como manter ambientes consistentes em produção com --no-dev
+* Dica bônus: Evite o retrabalho e aprenda a reutilizar código que já foi testado por milhares de devs ao redor do mundo! 🌎
